@@ -1,2 +1,2 @@
-# keras_conv_ts
-CNNs for time series processing 
+# keras_conv_1d
+One dimension CNNs for time series processing.
